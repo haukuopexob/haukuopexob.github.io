@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Записки по Bitrix CMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 21 Sep 2023 15:54:28 +0300</lastBuildDate><atom:link href="https://haukuopexob.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2023 17:54:21 +0300</lastBuildDate><atom:link href="https://haukuopexob.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Auto Deploy Test</title>
+      <link>https://haukuopexob.github.io/posts/hugo-auto-deploy-test/</link>
+      <pubDate>Thu, 21 Sep 2023 17:54:21 +0300</pubDate>
+      
+      <guid>https://haukuopexob.github.io/posts/hugo-auto-deploy-test/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Starting With Hugo Io</title>
       <link>https://haukuopexob.github.io/posts/starting-with-hugo-io/</link>
